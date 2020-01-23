@@ -1,2 +1,2 @@
 # Sudoku
-New Sudoku AI games
+New Sudoku AI game
